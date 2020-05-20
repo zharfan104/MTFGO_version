@@ -24,5 +24,12 @@
         <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="3.1.7" sparkle:os="android" />
     </item>
 
+        <item>
+        <title>Version 3.1.8</title>
+        <sparkle:version>3.1.8</sparkle:version>
+        <pubDate>Sat, 27 May 2020 15:20:13 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="3.1.8" sparkle:os="android" />
+    </item>
+
   </channel>
 </rss>
