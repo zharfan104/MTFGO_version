@@ -7,7 +7,7 @@
         <sparkle:version>3.1.5</sparkle:version>
         <description>desc</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="6.0" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="3.1.5" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- A release testing minimumSystemVersion -->
@@ -15,7 +15,7 @@
         <title>Version 3.1.6</title>
         <sparkle:version>3.1.6</sparkle:version>
         <pubDate>Sat, 26 May 2020 15:20:13 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="7.0" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="3.1.6" sparkle:os="android" />
     </item>
 
   </channel>
