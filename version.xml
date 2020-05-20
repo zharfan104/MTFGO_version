@@ -4,7 +4,7 @@
     <title>For unit test only</title>
     <item>
         <title>Version 3.1.6</title>
-        <sparkle:version>6.0.0</sparkle:version>
+        <sparkle:version>3.1.6</sparkle:version>
         <description>desc</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.mtf.calculator.external&hl=en" sparkle:version="6.0" />
