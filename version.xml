@@ -4,11 +4,12 @@
     <title>For unit test only</title>
     <item>
         <title>Version 3.1.5</title>
-        <sparkle:version>5.0</sparkle:version>
+        <sparkle:version>3.1.5</sparkle:version>
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
     <item>
         <title>Version 3.1.6</title>
+        <sparkle:version>3.1.6</sparkle:version>
         <description>desc</description>
         <pubDate>Sat, 19 May 2020 15:20:11 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
